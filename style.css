@@ -30,7 +30,7 @@ body {
 .logo {
   height: 80px;
   width: 80px;
-  background-image: url("../img/spaceship.png");
+  background-image: url("spaceship.png");
   background-size: contain;
   background-repeat: no-repeat;
   display: inline-block;
