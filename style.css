@@ -9,7 +9,7 @@ body {
 }
 
 body {
-  background-image: url("../img/space.jpg");
+  background-image: url("space.jpg");
   height: 100%;
   background-attachment: fixed;
   background-size: cover;
